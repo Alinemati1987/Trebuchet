@@ -1,0 +1,19 @@
+{
+  "name": "trebuchet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Alinemati1987/Trebuchet.git"
+  },
+  "author": "illiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alinemati1987/Trebuchet/issues"
+  },
+  "homepage": "https://github.com/Alinemati1987/Trebuchet#readme"
+}
